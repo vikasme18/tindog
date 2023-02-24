@@ -1,1 +1,1 @@
-Fake TinDog Link : https://vikasrx.github.io/fake-tindog/
+Fake TinDog Link : https://vikasrx.github.io/tindog/
